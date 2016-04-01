@@ -18,6 +18,7 @@ These are companies rapidly growing, on the path to, or at profitability.
 These are companies that are pre-profitability but still have well documented 
 * Rent the runway - https://docs.google.com/spreadsheets/d/1k4sO6pyCl_YYnf0PAXSBcX776rNcTjSOqDxZ5SDty-4/edit#gid=0
  
-
+## General reading or theory on the topic
+* Dual career paths by Bradley Hill - http://www.tandehill.com/pdfs/dual-career-paths.pdf
 
 
