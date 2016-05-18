@@ -14,7 +14,7 @@ These are companies rapidly growing, on the path to, or at profitability.
 * Spotify - https://labs.spotify.com/2016/02/15/spotify-technology-career-steps/
 
 ## Other companies or startups
-These are companies that are pre-profitability but still have well documented 
+These are companies that are pre-profitability but still have well documented structures
 * Rent the runway - https://docs.google.com/spreadsheets/d/1k4sO6pyCl_YYnf0PAXSBcX776rNcTjSOqDxZ5SDty-4/edit#gid=0
 * Enova - http://www.builtinchicago.org/node/126918
 * Enova full implementation details on github - https://github.com/enova/career_ladders
